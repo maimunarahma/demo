@@ -1,0 +1,29 @@
+  
+  .banner1{
+    margin:0 auto;
+     width: 1600px;
+     height: 837px;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+
+  }
+
+
+  .navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .navbar nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
